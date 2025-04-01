@@ -1,0 +1,26 @@
+# .NET Core build artifacts
+bin/
+obj/
+
+# NuGet package cache
+.nuget/packages/
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# VS Code files
+.vscode/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Other temporary files
+*.log
+*.cache
+*.bak
+*.swp
+*.sqlite
