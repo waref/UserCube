@@ -1,0 +1,17 @@
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\bin\Debug\net8.0\CoffeeMachine.Services.deps.json
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\bin\Debug\net8.0\CoffeeMachine.Services.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\bin\Debug\net8.0\CoffeeMachine.Services.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\bin\Debug\net8.0\CoffeeMachine.Core.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\bin\Debug\net8.0\CoffeeMachine.Models.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\bin\Debug\net8.0\CoffeeMachine.Core.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\bin\Debug\net8.0\CoffeeMachine.Models.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\CoffeeMachine.Services.csproj.AssemblyReference.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\CoffeeMachine.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\CoffeeMachine.Services.AssemblyInfoInputs.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\CoffeeMachine.Services.AssemblyInfo.cs
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\CoffeeMachine.Services.csproj.CoreCompileInputs.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\CoffeeMa.5A9FEADC.Up2Date
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\CoffeeMachine.Services.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\refint\CoffeeMachine.Services.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\CoffeeMachine.Services.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Services\obj\Debug\net8.0\ref\CoffeeMachine.Services.dll

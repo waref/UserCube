@@ -1,0 +1,17 @@
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\bin\Debug\net8.0\CoffeeMachine.Mappings.deps.json
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\bin\Debug\net8.0\CoffeeMachine.Mappings.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\bin\Debug\net8.0\CoffeeMachine.Mappings.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\bin\Debug\net8.0\CoffeeMachine.Core.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\bin\Debug\net8.0\CoffeeMachine.Models.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\bin\Debug\net8.0\CoffeeMachine.Core.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\bin\Debug\net8.0\CoffeeMachine.Models.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\CoffeeMachine.Mappings.csproj.AssemblyReference.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\CoffeeMachine.Mappings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\CoffeeMachine.Mappings.AssemblyInfoInputs.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\CoffeeMachine.Mappings.AssemblyInfo.cs
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\CoffeeMachine.Mappings.csproj.CoreCompileInputs.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\CoffeeMa.2A4DB59D.Up2Date
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\CoffeeMachine.Mappings.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\refint\CoffeeMachine.Mappings.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\CoffeeMachine.Mappings.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Mappings\obj\Debug\net8.0\ref\CoffeeMachine.Mappings.dll

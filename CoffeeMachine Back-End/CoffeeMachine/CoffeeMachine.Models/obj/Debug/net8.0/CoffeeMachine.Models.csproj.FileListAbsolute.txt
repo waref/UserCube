@@ -1,0 +1,15 @@
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\bin\Debug\net8.0\CoffeeMachine.Models.deps.json
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\bin\Debug\net8.0\CoffeeMachine.Models.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\bin\Debug\net8.0\CoffeeMachine.Models.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\bin\Debug\net8.0\CoffeeMachine.Core.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\bin\Debug\net8.0\CoffeeMachine.Core.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\CoffeeMachine.Models.csproj.AssemblyReference.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\CoffeeMachine.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\CoffeeMachine.Models.AssemblyInfoInputs.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\CoffeeMachine.Models.AssemblyInfo.cs
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\CoffeeMachine.Models.csproj.CoreCompileInputs.cache
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\CoffeeMa.F21B567E.Up2Date
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\CoffeeMachine.Models.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\refint\CoffeeMachine.Models.dll
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\CoffeeMachine.Models.pdb
+C:\Dev\UserCube\CoffeeMachine Back-End\CoffeeMachine\CoffeeMachine.Models\obj\Debug\net8.0\ref\CoffeeMachine.Models.dll

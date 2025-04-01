@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.data\\dbcontexts\\coffeemachinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|solutionrelative:coffeemachine.data\\dbcontexts\\coffeemachinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.data\\factory\\developmentdbconnectionstringprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|solutionrelative:coffeemachine.data\\factory\\developmentdbconnectionstringprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.data\\factory\\coffeemachinecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|solutionrelative:coffeemachine.data\\factory\\coffeemachinecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.data\\dbsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|solutionrelative:coffeemachine.data\\dbsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.data\\coffeemachine.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|solutionrelative:coffeemachine.data\\coffeemachine.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|solutionrelative:coffeemachine.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|solutionrelative:coffeemachine.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.data\\interfaces\\idbconnectionstringprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|solutionrelative:coffeemachine.data\\interfaces\\idbconnectionstringprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95053E6D-2383-43F2-A089-B2DDFB08FD63}|CoffeeMachine.Data\\CoffeeMachine.Data.csproj|solutionrelative:coffeemachine.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.services\\services\\coffeemachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|solutionrelative:coffeemachine.services\\services\\coffeemachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.webapi\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|solutionrelative:coffeemachine.webapi\\controllers\\coffeemachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.services\\stubs\\coffeemachinestub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|solutionrelative:coffeemachine.services\\stubs\\coffeemachinestub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\interfaces\\icoffeemachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\interfaces\\icoffeemachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.webapi\\coffeemachine.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|solutionrelative:coffeemachine.webapi\\coffeemachine.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AAFC85-BDC1-4DF6-80CE-457283518D6B}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.tests\\services\\utilizationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AAFC85-BDC1-4DF6-80CE-457283518D6B}|CoffeeMachine.Tests\\CoffeeMachine.Tests.csproj|solutionrelative:coffeemachine.tests\\services\\utilizationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.webapi\\controllers\\utilizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|solutionrelative:coffeemachine.webapi\\controllers\\utilizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.webapi\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|solutionrelative:coffeemachine.webapi\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.services\\services\\utilizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|solutionrelative:coffeemachine.services\\services\\utilizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.services\\services\\coffeeactionlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|solutionrelative:coffeemachine.services\\services\\coffeeactionlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.services\\coffeemachine.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0573DC3F-7D78-4080-AF9F-66BD9E8B8968}|CoffeeMachine.Services\\CoffeeMachine.Services.csproj|solutionrelative:coffeemachine.services\\coffeemachine.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.models\\coffeemachine.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|solutionrelative:coffeemachine.models\\coffeemachine.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\coffeemachine.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\coffeemachine.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.models\\entities\\coffeeactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|solutionrelative:coffeemachine.models\\entities\\coffeeactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.models\\entities\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|solutionrelative:coffeemachine.models\\entities\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\constantstrings\\consstringconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\constantstrings\\consstringconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\constantstrings\\consstringlogmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\constantstrings\\consstringlogmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\interfaces\\icoffeeactionlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\interfaces\\icoffeeactionlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FB3CC22-DB32-4C82-A021-136B0E799E52}|CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj|solutionrelative:coffeemachine.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.models\\entities\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|solutionrelative:coffeemachine.models\\entities\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\models\\dto\\actiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\models\\dto\\actiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.models\\entities\\coffeemachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|solutionrelative:coffeemachine.models\\entities\\coffeemachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.models\\entities\\coffeecreationoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40A74C-854D-4DC1-92AA-3CF1163FF9C1}|CoffeeMachine.Models\\CoffeeMachine.Models.csproj|solutionrelative:coffeemachine.models\\entities\\coffeecreationoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A3679-D893-4402-9DBA-A243EBC452BF}|CoffeeMachine.Mappings\\CoffeeMachine.Mappings.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984A3679-D893-4402-9DBA-A243EBC452BF}|CoffeeMachine.Mappings\\CoffeeMachine.Mappings.csproj|solutionrelative:coffeemachine.mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\models\\dto\\coffeeactionlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\models\\dto\\coffeeactionlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\models\\dto\\coffeecreationoptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\models\\dto\\coffeecreationoptionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\models\\dto\\actiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\models\\dto\\actiontypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\interfaces\\icoffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\interfaces\\icoffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\interfaces\\iutilizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\interfaces\\iutilizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|c:\\dev\\usercube\\coffeemachine back-end\\coffeemachine\\coffeemachine.core\\enums\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEC9E21-5B98-4B54-B96C-185FB9781C0F}|CoffeeMachine.Core\\CoffeeMachine.Core.csproj|solutionrelative:coffeemachine.core\\enums\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevelopmentDbConnectionStringProvider.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\Factory\\DevelopmentDbConnectionStringProvider.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Data\\Factory\\DevelopmentDbConnectionStringProvider.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\Factory\\DevelopmentDbConnectionStringProvider.cs",
+              "RelativeToolTip": "CoffeeMachine.Data\\Factory\\DevelopmentDbConnectionStringProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:51:54.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDbConnectionStringProvider.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\Interfaces\\IDbConnectionStringProvider.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Data\\Interfaces\\IDbConnectionStringProvider.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\Interfaces\\IDbConnectionStringProvider.cs",
+              "RelativeToolTip": "CoffeeMachine.Data\\Interfaces\\IDbConnectionStringProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:51:10.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoffeeMachine.Data",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\CoffeeMachine.Data.csproj",
+              "RelativeDocumentMoniker": "CoffeeMachine.Data\\CoffeeMachine.Data.csproj",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\CoffeeMachine.Data.csproj",
+              "RelativeToolTip": "CoffeeMachine.Data\\CoffeeMachine.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T18:13:05.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConsStringLogMessages.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\ConstantStrings\\ConsStringLogMessages.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\ConstantStrings\\ConsStringLogMessages.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\ConstantStrings\\ConsStringLogMessages.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\ConstantStrings\\ConsStringLogMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:25:27.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoffeeMachine.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoffeeMachine.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T08:31:24.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UtilizationServiceTests.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Tests\\Services\\UtilizationServiceTests.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Tests\\Services\\UtilizationServiceTests.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Tests\\Services\\UtilizationServiceTests.cs",
+              "RelativeToolTip": "CoffeeMachine.Tests\\Services\\UtilizationServiceTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwCkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:00:40.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CoffeeCreationOption.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\CoffeeCreationOption.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Models\\Entities\\CoffeeCreationOption.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\CoffeeCreationOption.cs",
+              "RelativeToolTip": "CoffeeMachine.Models\\Entities\\CoffeeCreationOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:14:23.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CoffeeActionLog.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\CoffeeActionLog.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Models\\Entities\\CoffeeActionLog.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\CoffeeActionLog.cs",
+              "RelativeToolTip": "CoffeeMachine.Models\\Entities\\CoffeeActionLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:14:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConsStringConfig.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\ConstantStrings\\ConsStringConfig.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\ConstantStrings\\ConsStringConfig.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\ConstantStrings\\ConsStringConfig.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\ConstantStrings\\ConsStringConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:10:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeMachineContext.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\DbContexts\\CoffeeMachineContext.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Data\\DbContexts\\CoffeeMachineContext.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\DbContexts\\CoffeeMachineContext.cs",
+              "RelativeToolTip": "CoffeeMachine.Data\\DbContexts\\CoffeeMachineContext.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwEQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:03:38.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Action.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\Action.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Models\\Entities\\Action.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\Action.cs",
+              "RelativeToolTip": "CoffeeMachine.Models\\Entities\\Action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:33:28.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CoffeeCreationOptionsDto.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Models\\Dto\\CoffeeCreationOptionsDto.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Models\\Dto\\CoffeeCreationOptionsDto.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Models\\Dto\\CoffeeCreationOptionsDto.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Models\\Dto\\CoffeeCreationOptionsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:15:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CoffeeMachine.Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:17:41.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CoffeeActionLogDto.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Models\\Dto\\CoffeeActionLogDto.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Models\\Dto\\CoffeeActionLogDto.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Models\\Dto\\CoffeeActionLogDto.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Models\\Dto\\CoffeeActionLogDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:29:34.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoffeeActionLogService.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\Services\\CoffeeActionLogService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Services\\Services\\CoffeeActionLogService.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\Services\\CoffeeActionLogService.cs",
+              "RelativeToolTip": "CoffeeMachine.Services\\Services\\CoffeeActionLogService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwEEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:41:31.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICoffeeActionLogService.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\ICoffeeActionLogService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Interfaces\\ICoffeeActionLogService.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\ICoffeeActionLogService.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Interfaces\\ICoffeeActionLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:40:38.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ActionTypeDto.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Models\\Dto\\ActionTypeDto.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Models\\Dto\\ActionTypeDto.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Models\\Dto\\ActionTypeDto.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Models\\Dto\\ActionTypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:07:56.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ActionType.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\ActionType.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Models\\Entities\\ActionType.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\ActionType.cs",
+              "RelativeToolTip": "CoffeeMachine.Models\\Entities\\ActionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:04:41.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ActionDto.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Models\\Dto\\ActionDto.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Models\\Dto\\ActionDto.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Models\\Dto\\ActionDto.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Models\\Dto\\ActionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:36:15.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.WebAPI\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "CoffeeMachine.WebAPI\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:40:22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoffeeMachine.WebAPI",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj",
+              "RelativeDocumentMoniker": "CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj",
+              "RelativeToolTip": "CoffeeMachine.WebAPI\\CoffeeMachine.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T16:59:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbsettings.Development.json",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\dbsettings.Development.json",
+              "RelativeDocumentMoniker": "CoffeeMachine.Data\\dbsettings.Development.json",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\dbsettings.Development.json",
+              "RelativeToolTip": "CoffeeMachine.Data\\dbsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T16:11:34.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffeeMachineContextFactory.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\Factory\\CoffeeMachineContextFactory.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Data\\Factory\\CoffeeMachineContextFactory.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\Factory\\CoffeeMachineContextFactory.cs",
+              "RelativeToolTip": "CoffeeMachine.Data\\Factory\\CoffeeMachineContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:54:17.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoffeeMachineController.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Controllers\\CoffeeMachineController.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.WebAPI\\Controllers\\CoffeeMachineController.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Controllers\\CoffeeMachineController.cs",
+              "RelativeToolTip": "CoffeeMachine.WebAPI\\Controllers\\CoffeeMachineController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:19:43.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoffeeMachineStub.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\Stubs\\CoffeeMachineStub.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Services\\Stubs\\CoffeeMachineStub.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\Stubs\\CoffeeMachineStub.cs",
+              "RelativeToolTip": "CoffeeMachine.Services\\Stubs\\CoffeeMachineStub.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:58:48.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICoffeeMachineService.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\ICoffeeMachineService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Interfaces\\ICoffeeMachineService.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\ICoffeeMachineService.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Interfaces\\ICoffeeMachineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:03:45.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeMachine.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\appsettings.json",
+              "RelativeToolTip": "CoffeeMachine.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T17:38:12.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Program.cs",
+              "RelativeToolTip": "CoffeeMachine.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T17:22:56.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UtilizationController.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Controllers\\UtilizationController.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.WebAPI\\Controllers\\UtilizationController.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.WebAPI\\Controllers\\UtilizationController.cs",
+              "RelativeToolTip": "CoffeeMachine.WebAPI\\Controllers\\UtilizationController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T17:21:52.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UtilizationService.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\Services\\UtilizationService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Services\\Services\\UtilizationService.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\Services\\UtilizationService.cs",
+              "RelativeToolTip": "CoffeeMachine.Services\\Services\\UtilizationService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:19:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CoffeeMachine.Core.csproj",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\CoffeeMachine.Core.csproj",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\CoffeeMachine.Core.csproj",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\CoffeeMachine.Core.csproj",
+              "RelativeToolTip": "CoffeeMachine.Core\\CoffeeMachine.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T16:03:52.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoffeeMachineService.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\Services\\CoffeeMachineService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Services\\Services\\CoffeeMachineService.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\Services\\CoffeeMachineService.cs",
+              "RelativeToolTip": "CoffeeMachine.Services\\Services\\CoffeeMachineService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAiwGUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:53:37.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CoffeeMachine.Services.csproj",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\CoffeeMachine.Services.csproj",
+              "RelativeDocumentMoniker": "CoffeeMachine.Services\\CoffeeMachine.Services.csproj",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Services\\CoffeeMachine.Services.csproj",
+              "RelativeToolTip": "CoffeeMachine.Services\\CoffeeMachine.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T15:53:11.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "CoffeeMachine.Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:48:23.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICoffeeMachine.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\ICoffeeMachine.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Interfaces\\ICoffeeMachine.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\ICoffeeMachine.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Interfaces\\ICoffeeMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:38.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Enums\\State.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Enums\\State.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Enums\\State.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Enums\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:05.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CoffeeMachine.Models.csproj",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj",
+              "RelativeDocumentMoniker": "CoffeeMachine.Models\\CoffeeMachine.Models.csproj",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj",
+              "RelativeToolTip": "CoffeeMachine.Models\\CoffeeMachine.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T15:18:52.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CoffeeMachineState.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\CoffeeMachineState.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Models\\Entities\\CoffeeMachineState.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Models\\Entities\\CoffeeMachineState.cs",
+              "RelativeToolTip": "CoffeeMachine.Models\\Entities\\CoffeeMachineState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:15:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:13:06.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUtilizationService.cs",
+              "DocumentMoniker": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\IUtilizationService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.Core\\Interfaces\\IUtilizationService.cs",
+              "ToolTip": "C:\\Dev\\UserCube\\CoffeeMachine Back-End\\CoffeeMachine\\CoffeeMachine.Core\\Interfaces\\IUtilizationService.cs",
+              "RelativeToolTip": "CoffeeMachine.Core\\Interfaces\\IUtilizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:12:18.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

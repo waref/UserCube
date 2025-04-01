@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=CoffeeMachineDB;User Id=sa;Password=008806375;MultipleActiveResultSets=True;TrustServerCertificate=True"
+  }
+}
