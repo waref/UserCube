@@ -43,33 +43,33 @@ namespace CoffeeMachine.Tests.Services
 
         }
 
-        [Test]
-        public async Task GetAverageCupsPerHourAsync_ShouldReturnCorrectData()
-        {
-            // Given
-            var logs = new List<CoffeeActionLogDto>
-            {
-                new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 8, 0, 0), ActionTypeId = 3 },
-                new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 8, 30, 0), ActionTypeId = 3 },
-                new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 8, 15, 0), ActionTypeId = 3 },
-                new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 9, 0, 0), ActionTypeId = 3 },
-                new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 10, 0, 0), ActionTypeId = 3 },
-                new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 10, 30, 0), ActionTypeId = 3 }
-            };
+       [Test]
+public async Task GetAverageCupsPerHourAsync_ShouldReturnCorrectData()
+{
+    // Given
+    var logs = new List<CoffeeActionLogDto>
+    {
+        new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 8, 0, 0), ActionTypeId = 3 },
+        new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 8, 30, 0), ActionTypeId = 3 },
+        new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 8, 15, 0), ActionTypeId = 3 },
+        new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 9, 0, 0), ActionTypeId = 3 },
+        new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 10, 0, 0), ActionTypeId = 3 },
+        new CoffeeActionLogDto { Timestamp = new DateTime(2025, 3, 3, 10, 30, 0), ActionTypeId = 3 }
+    };
 
-            _mockLogUtilityService.Setup(service => service.GetCoffeeActionLogsAsync())
-                .ReturnsAsync(logs);
+    _mockLogUtilityService.Setup(service => service.GetCoffeeActionLogsAsync())
+        .ReturnsAsync(logs);
 
-            // When
-            var result = await _utilizationServiceMoq.GetAverageCupsPerHourAsync();
+    // When
+    var result = await _utilizationServiceMoq.GetAverageCupsPerHourAsync();
 
-            // Then
-            Assert.IsNotNull(result);
-            Assert.AreEqual(3, result.Count);
-            Assert.AreEqual(0.5, result["08:00-08:59"]);
-            Assert.AreEqual(0.17, result["09:00-09:59"], 0.01);
-            Assert.AreEqual(0.33, result["10:00-10:59"], 0.01);
-        }
+    // Then
+    Assert.IsNotNull(result);
+    Assert.AreEqual(3, result.Count);
+    Assert.AreEqual(0.5, result["08:00"]);
+    Assert.AreEqual(0.17, result["09:00"], 0.01);
+    Assert.AreEqual(0.33, result["10:00"], 0.01);
+}
 
         [Test]
         public async Task GetAverageCupsPerHourAsync_ShouldHandleEmptyLogs()
